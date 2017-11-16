@@ -1,6 +1,6 @@
 # Balloon pop!
 
-Built on https://github.com/lean/phaser-es6-webpack
+Built on [lean/phaser-es6-webpack](https://github.com/lean/phaser-es6-webpack)
 
 
 ## Scripts

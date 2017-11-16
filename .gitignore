@@ -6,4 +6,4 @@ plugins/
 .vscode/
 *.log
 package-lock.json
-/index.html
+# /index.html
